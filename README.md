@@ -1,4 +1,6 @@
-Libraries to install:
+View "report.pdf" for the findings of the project.
+
+If you wish to run the code, please install the following libraries:
 sklearn
 matplotlib
 pandas
